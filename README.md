@@ -12,14 +12,14 @@
     "The only way to do great work is to love what you do." <br>
     &mdash; <i>Steve Jobs</i>
   </blockquote>
-  <p><sub><i>Generated on: 1/15/2026, 9:43:48 AM</i></sub></p>
+  <p><sub><i>Generated on: 1/15/2026, 10:04:12 AM</i></sub></p>
 
   <br />
   
   <h3>🛠️ Languages and Tools</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,nodejs,vscode,git,github&perline=6&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,nodejs,vscode,git,github,windows&perline=6&theme=dark" />
     </a>
   </p>
 
@@ -38,10 +38,11 @@
   
   <h3>🏙️ 3D Contributions</h3>
   <p>
-      <img src="https://raw.githubusercontent.com/kichirou244/kichirou244/output/profile-night-rainbow.svg" alt="3d city" />
+      <img src="https://raw.githubusercontent.com/kichirou244/kichirou244/output/profile-season-animate.svg" alt="3d city" />
   </p>
   
   <br />
+
   
   <h3>📫 Connect with me</h3>
   <p>
