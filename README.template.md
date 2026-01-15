@@ -9,17 +9,17 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "The only way to do great work is to love what you do." <br>
-    &mdash; <i>Steve Jobs</i>
+    "{{QUOTE}}" <br>
+    &mdash; <i>{{AUTHOR}}</i>
   </blockquote>
-  <p><sub><i>Generated on: 1/15/2026, 9:43:48 AM</i></sub></p>
+  <p><sub><i>Generated on: {{DATE}}</i></sub></p>
 
   <br />
   
   <h3>🛠️ Languages and Tools</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,nodejs,vscode,git,github&perline=6&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,react,nodejs,vscode,git,github,windows&perline=6&theme=dark" />
     </a>
   </p>
 
@@ -42,6 +42,7 @@
   </p>
   
   <br />
+
   
   <h3>📫 Connect with me</h3>
   <p>

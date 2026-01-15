@@ -1,0 +1,19 @@
+{
+  "name": "kichirou-profile-readme",
+  "version": "1.0.0",
+  "description": "Auto-generated GitHub Profile README",
+  "main": "index.js",
+  "scripts": {
+    "gen": "node scripts/generate-readme.js"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme"
+  ],
+  "author": "Kichirou244",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
