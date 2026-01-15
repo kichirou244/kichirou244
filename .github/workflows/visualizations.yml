@@ -24,6 +24,7 @@ jobs:
           
       - name: Copy 3D images to dist
         run: |
+          mkdir -p dist
           cp -r profile-3d-contrib/*.svg dist/ || true
 
       - name: push images to output branch
