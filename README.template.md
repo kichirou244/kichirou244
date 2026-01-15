@@ -38,7 +38,7 @@
   
   <h3>🏙️ 3D Contributions</h3>
   <p>
-      <img src="https://raw.githubusercontent.com/kichirou244/kichirou244/output/profile-night-rainbow.svg" alt="3d city" />
+      <img src="https://raw.githubusercontent.com/kichirou244/kichirou244/output/profile-season-animate.svg" alt="3d city" />
   </p>
   
   <br />
