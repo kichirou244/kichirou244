@@ -14,6 +14,7 @@
   "author": "Kichirou244",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "dotenv": "^17.2.3"
   }
 }

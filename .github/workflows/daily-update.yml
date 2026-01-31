@@ -22,6 +22,8 @@ jobs:
 
       - name: Generate README
         run: npm run gen
+        env:
+          API_NINJAS_KEY: ${{ secrets.API_NINJAS_KEY }}
 
       - name: Commit and Push
         run: |
