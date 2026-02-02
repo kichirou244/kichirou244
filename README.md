@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "I work to make human beings out of human bodies. I work to make conscience out of mindlessness. I work to make Gods out of obedient worshippers." <br>
+    "Give me your soul and I will give you a unified humanity replete with courage, conscience and compassion." <br>
     &mdash; <i>Abhijit Naskar</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/1/2026, 11:14:43 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/2/2026, 11:06:47 AM</i></sub></p>
 
   <br />
   
