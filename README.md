@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Sooner or later you will meet the person you are busy becoming and you'll either be celebrating or regretting base on the choices you making today." <br>
-    &mdash; <i>Nicky Verd</i>
+    "I will form good habits and become their slave." <br>
+    &mdash; <i>Og Mandino</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/3/2026, 10:59:13 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/4/2026, 10:57:13 AM</i></sub></p>
 
   <br />
   
