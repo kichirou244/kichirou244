@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "I will form good habits and become their slave." <br>
-    &mdash; <i>Og Mandino</i>
+    "The only way to know if you can ever grab hold of your dreams is to reach for them." <br>
+    &mdash; <i>Tonny K. Brown</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/4/2026, 10:57:13 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/5/2026, 10:58:18 AM</i></sub></p>
 
   <br />
   
