@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Never let the world take your smile" <br>
-    &mdash; <i>all it will give you in return is a frown.</i>
+    "It is better to leave a child well instructed than to hand over the whole world in the hands of a fool" <br>
+    &mdash; <i>Michael Quansah</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/12/2026, 11:08:22 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/13/2026, 11:05:01 AM</i></sub></p>
 
   <br />
   
