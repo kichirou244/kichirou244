@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "It is better to leave a child well instructed than to hand over the whole world in the hands of a fool" <br>
-    &mdash; <i>Michael Quansah</i>
+    "Knowledge speaks, but wisdom listens." <br>
+    &mdash; <i>~ Jimi Hendrix (1942-1970)</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/13/2026, 11:05:01 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/14/2026, 10:54:14 AM</i></sub></p>
 
   <br />
   
