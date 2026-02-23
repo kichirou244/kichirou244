@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "You haven't learned anything until you learn to learn everything." <br>
-    &mdash; <i>Ben Wood Johnson</i>
+    "I don't regret the things I done. I regret not doing things when I had the chance." <br>
+    &mdash; <i>ISA</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/22/2026, 11:01:13 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/23/2026, 11:06:08 AM</i></sub></p>
 
   <br />
   
