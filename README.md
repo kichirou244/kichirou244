@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "I don't regret the things I done. I regret not doing things when I had the chance." <br>
-    &mdash; <i>ISA</i>
+    "Always look at the message, not the messenger!”The Little People, The Little People Journey into the Mystic Sea" <br>
+    &mdash; <i>Chris DiSano Davenport</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/23/2026, 11:06:08 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/24/2026, 11:02:10 AM</i></sub></p>
 
   <br />
   
