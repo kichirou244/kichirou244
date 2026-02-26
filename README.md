@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "The only shores you will never reach in life are those you have allowed yourself to believe, were too far." <br>
+    "Those who believe in justice find silence too great a burden to carry." <br>
     &mdash; <i>Tonny K. Brown</i>
   </blockquote>
-  <p><sub><i>Generated on: 2/25/2026, 11:03:34 AM</i></sub></p>
+  <p><sub><i>Generated on: 2/26/2026, 10:59:50 AM</i></sub></p>
 
   <br />
   
