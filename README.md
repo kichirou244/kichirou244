@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Having something is not always better than not having it." <br>
-    &mdash; <i>Beth Kempton</i>
+    "When you compete, you gain more than you lose, even when you lose." <br>
+    &mdash; <i>Aaron Lauritsen</i>
   </blockquote>
-  <p><sub><i>Generated on: 3/16/2026, 11:23:13 AM</i></sub></p>
+  <p><sub><i>Generated on: 3/17/2026, 11:00:44 AM</i></sub></p>
 
   <br />
   
