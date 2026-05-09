@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Sometimes life ask you a question, but you couldn't find answer in any book. You have to create answer yourself." <br>
-    &mdash; <i>Salman Mansuri</i>
+    "Ancestors from all times have shared their essence with you. Accept the light and let go of the rest." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 5/8/2026, 11:40:18 AM</i></sub></p>
+  <p><sub><i>Generated on: 5/9/2026, 11:52:27 AM</i></sub></p>
 
   <br />
   
