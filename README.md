@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Are we living life, or is life living us?" <br>
-    &mdash; <i>Michael P. Naughton</i>
+    "Dance is medicine. Movement is potent. Empower yourself with it today." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 5/12/2026, 12:06:16 PM</i></sub></p>
+  <p><sub><i>Generated on: 5/13/2026, 12:28:29 PM</i></sub></p>
 
   <br />
   
