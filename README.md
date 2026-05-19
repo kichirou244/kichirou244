@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "I embrace now—this moment—with my whole being." <br>
+    "In choosing consciousness, we gift ourselves with presence." <br>
     &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 5/18/2026, 12:47:44 PM</i></sub></p>
+  <p><sub><i>Generated on: 5/19/2026, 12:42:34 PM</i></sub></p>
 
   <br />
   
