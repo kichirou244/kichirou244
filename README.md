@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Sometimes your diary is the perfect listener." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "It’s better to be a lion for a day than a sheep all your life." <br>
+    &mdash; <i>Robin Sharma</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/3/2026, 1:29:30 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/4/2026, 1:21:22 PM</i></sub></p>
 
   <br />
   
