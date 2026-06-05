@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "It’s better to be a lion for a day than a sheep all your life." <br>
-    &mdash; <i>Robin Sharma</i>
+    "There is something lovable about almost everyone you encounter. Uncover it, and you will experience true compassion." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/4/2026, 1:21:22 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/5/2026, 1:00:42 PM</i></sub></p>
 
   <br />
   
