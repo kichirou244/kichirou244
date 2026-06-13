@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "When you consciously choose to do what you love, life becomes a pleasure and ceases to be a chore." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "The only way to do great work is to love what you do." <br>
+    &mdash; <i>Steve Jobs</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/12/2026, 1:14:48 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/13/2026, 12:58:33 PM</i></sub></p>
 
   <br />
   
