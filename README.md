@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Inspire someone today. Your action can change that person’s life forever." <br>
-    &mdash; <i>Gellaworks</i>
+    "Be the change, you seek from society" <br>
+    &mdash; <i>Kandarp Gandhi</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/15/2026, 1:58:05 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/16/2026, 2:02:56 PM</i></sub></p>
 
   <br />
   
