@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "The will to win begins in your mind.So constantly strive for excellence and greatness in your time." <br>
-    &mdash; <i>Timothy Pina</i>
+    "Till I have your disposition, your goodness, I never can have your happiness.”~ Jane Austen (Pride & Prejudice)" <br>
+    &mdash; <i>Jane Austen</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/19/2026, 1:42:34 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/20/2026, 12:56:33 PM</i></sub></p>
 
   <br />
   
