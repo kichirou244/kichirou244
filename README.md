@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "People have been telling so many lies. At the end you won't believe the simple truth." <br>
-    &mdash; <i>Jonas Martens</i>
+    "A road to confidence is a road worth taking." <br>
+    &mdash; <i>Jazmeen Osae-Kwapong</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/24/2026, 12:43:48 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/25/2026, 12:44:56 PM</i></sub></p>
 
   <br />
   
