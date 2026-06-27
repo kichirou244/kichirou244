@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "You haven't learned anything, until you've read a good book." <br>
-    &mdash; <i>Jazmeen Osae-Kwapong</i>
+    "Look forward, not behind. "Your best days are still out in front of you." Be focus & keep your dreams ALIVE" <br>
+    &mdash; <i>Adedayo Olabamiji</i>
   </blockquote>
-  <p><sub><i>Generated on: 6/26/2026, 12:50:25 PM</i></sub></p>
+  <p><sub><i>Generated on: 6/27/2026, 12:30:28 PM</i></sub></p>
 
   <br />
   
