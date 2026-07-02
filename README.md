@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Tomorrow is the only future we have. Let’s live to love it!" <br>
-    &mdash; <i>Munia Khan</i>
+    "You are the draftsman and craftsman of your own destiny." <br>
+    &mdash; <i>Napz Cherub Pellazo</i>
   </blockquote>
-  <p><sub><i>Generated on: 7/1/2026, 1:06:58 PM</i></sub></p>
+  <p><sub><i>Generated on: 7/2/2026, 12:34:54 PM</i></sub></p>
 
   <br />
   
