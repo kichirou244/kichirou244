@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Shut your eyes to the world of pain, and you also shut your eyes to the world of delight." <br>
-    &mdash; <i>Susan Meissner</i>
+    "If you want to make room for something new, you must let go of something old that no longer serves you." <br>
+    &mdash; <i>Roy T. Bennett</i>
   </blockquote>
-  <p><sub><i>Generated on: 7/4/2026, 12:24:59 PM</i></sub></p>
+  <p><sub><i>Generated on: 7/5/2026, 12:43:05 PM</i></sub></p>
 
   <br />
   
