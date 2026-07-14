@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Life will go on without you, because in the end it's not about you." <br>
-    &mdash; <i>Matisyahu</i>
+    "You are not alone. There are Freedom Seekers everywhere." <br>
+    &mdash; <i>Beth Kempton</i>
   </blockquote>
-  <p><sub><i>Generated on: 7/13/2026, 12:02:56 PM</i></sub></p>
+  <p><sub><i>Generated on: 7/14/2026, 11:30:21 AM</i></sub></p>
 
   <br />
   
