@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "If you can’t move a mountain by faith, move it by carrying away stone by stone." <br>
-    &mdash; <i>Matshona Dhliwayo</i>
+    "Go to the poor: you will find God." <br>
+    &mdash; <i>St. Vincent de Paul</i>
   </blockquote>
-  <p><sub><i>Generated on: 7/20/2026, 12:08:27 PM</i></sub></p>
+  <p><sub><i>Generated on: 7/21/2026, 11:49:27 AM</i></sub></p>
 
   <br />
   
