@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Some people just carry heavy hearts and more often than not it has nothing to do with you." <br>
-    &mdash; <i>Nikki Rowe</i>
+    "There are many little ways to enlarge your child’s world. Love of books is the best of all." <br>
+    &mdash; <i>–Jacqueline Kennedy Onassis</i>
   </blockquote>
-  <p><sub><i>Generated on: 8/4/2026, 11:45:53 AM</i></sub></p>
+  <p><sub><i>Generated on: 8/5/2026, 11:45:30 AM</i></sub></p>
 
   <br />
   
