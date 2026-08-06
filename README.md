@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "There are many little ways to enlarge your child’s world. Love of books is the best of all." <br>
-    &mdash; <i>–Jacqueline Kennedy Onassis</i>
+    "Fear and greatness cannot exist within the same space." <br>
+    &mdash; <i>Willie   James</i>
   </blockquote>
-  <p><sub><i>Generated on: 8/5/2026, 11:45:30 AM</i></sub></p>
+  <p><sub><i>Generated on: 8/6/2026, 11:46:09 AM</i></sub></p>
 
   <br />
   
