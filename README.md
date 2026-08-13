@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Everything you do matters. Every time you share and care, the light multiplies." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "We have a saying in the desert: It is better to see the truth, than to imagine it." <br>
+    &mdash; <i>Amber Jacobs</i>
   </blockquote>
-  <p><sub><i>Generated on: 8/12/2026, 10:39:41 AM</i></sub></p>
+  <p><sub><i>Generated on: 8/13/2026, 10:50:50 AM</i></sub></p>
 
   <br />
   
