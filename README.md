@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "The beauty of compassion is free, and everyone is welcome to it." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "If it's the other guy's fault, you can't fix it. Don't blame other people for your problems. That gives them all the power. Own up to your mistakes." <br>
+    &mdash; <i>Ruthi Postow Birch</i>
   </blockquote>
-  <p><sub><i>Generated on: 8/29/2026, 3:14:30 PM</i></sub></p>
+  <p><sub><i>Generated on: 8/30/2026, 2:14:48 PM</i></sub></p>
 
   <br />
   
