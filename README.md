@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "If it's the other guy's fault, you can't fix it. Don't blame other people for your problems. That gives them all the power. Own up to your mistakes." <br>
-    &mdash; <i>Ruthi Postow Birch</i>
+    "Every failure if you let it is an opportunity to reinvent yourself and move forward." <br>
+    &mdash; <i>Jerry Gladstone</i>
   </blockquote>
-  <p><sub><i>Generated on: 8/30/2026, 2:14:48 PM</i></sub></p>
+  <p><sub><i>Generated on: 8/31/2026, 2:29:25 PM</i></sub></p>
 
   <br />
   
