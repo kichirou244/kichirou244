@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "A diamond only truly appreciates pressure the day it begins to shine." <br>
-    &mdash; <i>Matshona Dhliwayo</i>
+    "Talk to yourself like a cherished friend. Treat yourself with love and care. You are perfect, just as you are." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 9/6/2026, 1:25:52 PM</i></sub></p>
+  <p><sub><i>Generated on: 9/7/2026, 1:34:18 PM</i></sub></p>
 
   <br />
   
