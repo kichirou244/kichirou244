@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Talk to yourself like a cherished friend. Treat yourself with love and care. You are perfect, just as you are." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "Anger has great strength, but no brains. Greed has a great appetite, but no heart.Pride has a great spirit, but no soul." <br>
+    &mdash; <i>Matshona Dhliwayo</i>
   </blockquote>
-  <p><sub><i>Generated on: 9/7/2026, 1:34:18 PM</i></sub></p>
+  <p><sub><i>Generated on: 9/8/2026, 1:26:31 PM</i></sub></p>
 
   <br />
   
