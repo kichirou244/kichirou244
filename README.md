@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Anger has great strength, but no brains. Greed has a great appetite, but no heart.Pride has a great spirit, but no soul." <br>
-    &mdash; <i>Matshona Dhliwayo</i>
+    "Your inner critic is simply a part of you that needs more self-love." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 9/8/2026, 1:26:31 PM</i></sub></p>
+  <p><sub><i>Generated on: 9/9/2026, 1:32:32 PM</i></sub></p>
 
   <br />
   
