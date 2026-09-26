@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Remember it is good to build and bad to destroy" <br>
-    &mdash; <i>Sid Mittra</i>
+    "Sometimes the ultimate act of self-compassion is turning off your phone and looking someone in the eye." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 9/25/2026, 1:30:41 PM</i></sub></p>
+  <p><sub><i>Generated on: 9/26/2026, 1:32:10 PM</i></sub></p>
 
   <br />
   
