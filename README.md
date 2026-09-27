@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Sometimes the ultimate act of self-compassion is turning off your phone and looking someone in the eye." <br>
+    "Slowing down your thoughts on a regular basis is the path to consistent peace of mind." <br>
     &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 9/26/2026, 1:32:10 PM</i></sub></p>
+  <p><sub><i>Generated on: 9/27/2026, 1:59:43 PM</i></sub></p>
 
   <br />
   
