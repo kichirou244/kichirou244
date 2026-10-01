@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "The mind dies, but its thoughts live on. The heart perishes, but its experiences live on. The body expires, but its spirit lives on." <br>
-    &mdash; <i>Matshona Dhliwayo</i>
+    "Speak to yourself with compassion on the inside and you will radiate peace on the outside." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 9/30/2026, 2:14:57 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/1/2026, 2:39:03 PM</i></sub></p>
 
   <br />
   
