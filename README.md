@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Speak to yourself with compassion on the inside and you will radiate peace on the outside." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "When you look into the mirror, you can’t even see your heart; but when God looks at your shadow, He sees your soul." <br>
+    &mdash; <i>Matshona Dhliwayo</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/1/2026, 2:39:03 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/2/2026, 2:26:26 PM</i></sub></p>
 
   <br />
   
