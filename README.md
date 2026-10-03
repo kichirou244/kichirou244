@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "When you look into the mirror, you can’t even see your heart; but when God looks at your shadow, He sees your soul." <br>
-    &mdash; <i>Matshona Dhliwayo</i>
+    "Peak performance happens when we feel loved and supported from within." <br>
+    &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/2/2026, 2:26:26 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/3/2026, 1:59:25 PM</i></sub></p>
 
   <br />
   
