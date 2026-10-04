@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Peak performance happens when we feel loved and supported from within." <br>
+    "Defeat the demons of self-doubt and self-loathing by being your own hero/heroine of self-compassion." <br>
     &mdash; <i>Amy Leigh Mercree</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/3/2026, 1:59:25 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/4/2026, 2:19:39 PM</i></sub></p>
 
   <br />
   
