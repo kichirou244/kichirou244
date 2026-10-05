@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Defeat the demons of self-doubt and self-loathing by being your own hero/heroine of self-compassion." <br>
-    &mdash; <i>Amy Leigh Mercree</i>
+    "The world is already full of critics; to stand out, be an encourager." <br>
+    &mdash; <i>Matshona Dhliwayo</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/4/2026, 2:19:39 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/5/2026, 2:35:44 PM</i></sub></p>
 
   <br />
   
