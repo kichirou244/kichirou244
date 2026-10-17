@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Adversities define what you're made of. Success is you're reward for overcoming them" <br>
+    "It doesn't matter if you have to kick, crawl, scratch, hop, limp, hobble, or be carried to the finish line. Just make sure you finish you race." <br>
     &mdash; <i>Kyle Vidrine</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/16/2026, 1:15:21 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/17/2026, 1:00:53 PM</i></sub></p>
 
   <br />
   
