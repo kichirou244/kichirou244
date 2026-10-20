@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "If you can't finish you can't succeed. You have to become a finisher." <br>
+    "You have to focus on the finish line from the starting line." <br>
     &mdash; <i>Kyle Vidrine</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/19/2026, 1:40:46 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/20/2026, 1:27:13 PM</i></sub></p>
 
   <br />
   
