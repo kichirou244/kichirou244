@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Goals want to realize themselves." <br>
-    &mdash; <i>Zoltan Andrejkovics</i>
+    "If you see a shot, shoot." <br>
+    &mdash; <i>Kyle Vidrine</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/21/2026, 1:27:06 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/22/2026, 1:29:45 PM</i></sub></p>
 
   <br />
   
