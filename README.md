@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "You can either complain about it or grind, I choose to grind." <br>
+    "If you're going to be fighting anyway, why not fight to win and not just to survive." <br>
     &mdash; <i>Kyle Vidrine</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/24/2026, 1:20:16 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/25/2026, 1:39:12 PM</i></sub></p>
 
   <br />
   
