@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "If you're going to be fighting anyway, why not fight to win and not just to survive." <br>
-    &mdash; <i>Kyle Vidrine</i>
+    "Live with purpose." <br>
+    &mdash; <i>Chioma Nkemdilim</i>
   </blockquote>
-  <p><sub><i>Generated on: 10/25/2026, 1:39:12 PM</i></sub></p>
+  <p><sub><i>Generated on: 10/26/2026, 1:49:43 PM</i></sub></p>
 
   <br />
   
