@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "You be good. That's your business. The rest, leave to God. That's his business." <br>
-    &mdash; <i>Fakeer Ishavardas</i>
+    "Invest like a bull, sit like a bear and watch like an eagle. (mantra for long term investing)" <br>
+    &mdash; <i>Vijay Kedia</i>
   </blockquote>
-  <p><sub><i>Generated on: 11/17/2026, 4:40:43 PM</i></sub></p>
+  <p><sub><i>Generated on: 11/18/2026, 3:59:27 PM</i></sub></p>
 
   <br />
   
