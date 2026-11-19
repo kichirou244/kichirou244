@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Invest like a bull, sit like a bear and watch like an eagle. (mantra for long term investing)" <br>
-    &mdash; <i>Vijay Kedia</i>
+    "Never look back unless you are planning to go that way" <br>
+    &mdash; <i>Henry David Thoreau</i>
   </blockquote>
-  <p><sub><i>Generated on: 11/18/2026, 3:59:27 PM</i></sub></p>
+  <p><sub><i>Generated on: 11/19/2026, 4:19:55 PM</i></sub></p>
 
   <br />
   
