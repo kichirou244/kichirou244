@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Never look back unless you are planning to go that way" <br>
-    &mdash; <i>Henry David Thoreau</i>
+    "Don’t always trust what you see. In a bull market even a duck looks like a swan." <br>
+    &mdash; <i>Vijay Kedia</i>
   </blockquote>
-  <p><sub><i>Generated on: 11/19/2026, 4:19:55 PM</i></sub></p>
+  <p><sub><i>Generated on: 11/20/2026, 4:02:43 PM</i></sub></p>
 
   <br />
   
