@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Setting goals is the first step in turning the invisible into the visible." <br>
-    &mdash; <i>Tony Robbins</i>
+    "Investing is like Yoga. Body, mind and soul have to be aligned." <br>
+    &mdash; <i>Vijay Kedia</i>
   </blockquote>
-  <p><sub><i>Generated on: 11/22/2026, 3:41:02 PM</i></sub></p>
+  <p><sub><i>Generated on: 11/23/2026, 4:38:14 PM</i></sub></p>
 
   <br />
   
