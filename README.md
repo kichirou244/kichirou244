@@ -9,10 +9,10 @@
 
   <h3>📜 Daily Wisdom</h3>
   <blockquote>
-    "Investing is like Yoga. Body, mind and soul have to be aligned." <br>
+    "Chase the story behind the stock, not the money on the table. Money will make you rich, but the story will make you wealthy." <br>
     &mdash; <i>Vijay Kedia</i>
   </blockquote>
-  <p><sub><i>Generated on: 11/23/2026, 4:38:14 PM</i></sub></p>
+  <p><sub><i>Generated on: 11/24/2026, 6:30:48 PM</i></sub></p>
 
   <br />
   
